@@ -2,5 +2,6 @@
 
 * WSL / Windows
 ** TODO Figure out how to split configs by "OS"
+SCHEDULED: <2023-12-27 Wed>
 - [ ] Windows
 - [ ] WSL2 / Ubuntu

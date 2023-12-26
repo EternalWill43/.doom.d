@@ -1,0 +1,6 @@
+#+title: Bugs
+
+* WSL / Windows
+** TODO Figure out how to split configs by "OS"
+- [ ] Windows
+- [ ] WSL2 / Ubuntu
